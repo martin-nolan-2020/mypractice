@@ -8,6 +8,7 @@ public class SpringbootIn10Steps2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootIn10Steps2Application.class, args);
+		
 	}
 
 }
