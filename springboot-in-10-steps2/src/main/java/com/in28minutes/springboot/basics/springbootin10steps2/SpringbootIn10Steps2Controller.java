@@ -11,4 +11,10 @@ public class SpringbootIn10Steps2Controller {
 		String a = "xyz";
 		return "XYZ" + " " + a;
 	}
+	
+	@GetMapping("abc")
+	public String getAbc(){
+		String x = "abc";
+		return "ABC" + " " + x;
+	}
 }
